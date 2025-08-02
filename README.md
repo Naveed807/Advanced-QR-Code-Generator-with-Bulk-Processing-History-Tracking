@@ -1,0 +1,2 @@
+# Advanced-QR-Code-Generator-with-Bulk-Processing-History-Tracking
+✨ Sleek modern design with dark/light mode toggle  🏗 Multiple QR types (URL, Text, Email, WiFi, Contact, Phone)  🎨 Full customization (colors, size, error correction)  💾 History &amp; Favorites with local storage  📦 Bulk generation from CSV/TXT files  📥 Multiple export options (PNG, ZIP, clipboard)  📱 Fully responsive works on all devices
